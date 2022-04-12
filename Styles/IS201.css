@@ -1,0 +1,97 @@
+.fonts{
+    font-size: 22px;
+    font-weight: bold;
+    color: blue;
+}
+
+.fontsinside{
+    font-style: italic;
+}
+
+.anchor{
+    font-weight: bold;
+}
+
+.header{
+    color: red;
+}
+
+.skinny{
+    width: 60%;
+    margin: auto;
+}
+
+.background{
+    background-color: rgba(125, 115, 115, 0.4);
+}
+
+.ul{
+    list-style-type: none;
+}
+
+.ul li{
+    float: left;
+    padding: 5px;
+}
+
+.head{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height:100px;
+    text-align: center;
+}
+
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+}
+.leftmenu{
+    top: 114px;
+    bottom: 64px;
+    right: 5px;
+    width: 300px;
+}
+.navbar{
+    font-size: 20px;
+    color: red;
+}
+
+.footer{
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+.tall{
+    font-style: italic;
+    color: navy;
+}
+
+.short{
+    font-size: 30px;
+    color: yellow;
+    font-style: italic;
+}
+
+.med{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contact{
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.righta{
+    float:right
+}
+
+.church{
+    font-size: 20px;
+}
